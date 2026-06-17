@@ -1,0 +1,14 @@
+### Root
+GET http://localhost:3000/
+
+### Student
+GET http://localhost:3000/student
+
+### About
+GET http://localhost:3000/about
+
+### Skills
+GET http://localhost:3000/skills
+
+### Students
+GET http://localhost:3000/students
